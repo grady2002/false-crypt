@@ -1,0 +1,16 @@
+{
+  "name": "enc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enc.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
